@@ -15,6 +15,7 @@ youtubeのURLを入力し、指定された動画で話されている内容を�
 1. windows 10
 2. python 3.11
 3. cuda 11.8
+4. NVIDIAのGPUを搭載したローカルPC(メモリ16GB以上）
 
   
 # 操作方法  
